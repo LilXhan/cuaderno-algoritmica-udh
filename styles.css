@@ -126,7 +126,7 @@ main {
     text-align: justify;
 }
 
-
+/*
 #nav-toggle:checked + .sidebar {
     width: 60px;
 }
@@ -151,6 +151,8 @@ main {
 #nav-toggle:checked + .sidebar li a span:last-child {
     display: none;
 }
+
+*/
 
 pre {
     font-weight: bold;
